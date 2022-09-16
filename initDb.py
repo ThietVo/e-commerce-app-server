@@ -7,6 +7,7 @@ db.create_all()
 
 p1 = Products(
     productName='productName1',
+    image='',
     price='100',
     unit='each',
     sale='yes',
@@ -15,6 +16,7 @@ p1 = Products(
 )
 p2 = Products(
     productName='productName2',
+    image='',
     price='200',
     unit='each',
     sale='yes',
@@ -23,6 +25,7 @@ p2 = Products(
 )
 p3 = Products(
     productName='productName3',
+    image='',
     price='300',
     unit='each',
     sale='yes',
@@ -31,6 +34,7 @@ p3 = Products(
 )
 p4 = Products(
     productName='productName4',
+    image='',
     price='400',
     unit='each',
     sale='yes',
@@ -39,6 +43,7 @@ p4 = Products(
 )
 p5 = Products(
     productName='productName5',
+    image='',
     price='500',
     unit='each',
     sale='yes',
@@ -47,6 +52,7 @@ p5 = Products(
 )
 p6 = Products(
     productName='productName6',
+    image='',
     price='600',
     unit='each',
     sale='yes',
@@ -55,6 +61,7 @@ p6 = Products(
 )
 p7 = Products(
     productName='productName7',
+    image='',
     price='700',
     unit='each',
     sale='yes',
@@ -63,6 +70,7 @@ p7 = Products(
 )
 p8 = Products(
     productName='productName8',
+    image='',
     price='800',
     unit='each',
     sale='yes',
@@ -71,6 +79,7 @@ p8 = Products(
 )
 p9 = Products(
     productName='productName9',
+    image='',
     price='900',
     unit='each',
     sale='yes',
@@ -79,6 +88,7 @@ p9 = Products(
 )
 p10 = Products(
     productName='productName10',
+    image='',
     price='1000',
     unit='each',
     sale='yes',
